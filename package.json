@@ -1,0 +1,22 @@
+{
+  "name": "jaybhai",
+  "version": "1.0.0",
+  "description": "this package print jaybhai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jb-7-jay/jaybhai.git"
+  },
+  "keywords": [
+    "jaybhai"
+  ],
+  "author": "jay bhingradiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jb-7-jay/jaybhai/issues"
+  },
+  "homepage": "https://github.com/jb-7-jay/jaybhai#readme"
+}
